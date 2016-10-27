@@ -1,7 +1,7 @@
 {
   "name": "gdg-madrid",
   "version": "1.0.0",
-  "description": "GDG Madrid WebSite",
+  "description": "GDG Madrid DevFest WebSite",
   "main": "service-worker.js",
   "directories": {
     "test": "test"
