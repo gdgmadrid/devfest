@@ -55,7 +55,6 @@ const project = require('./gulp-tasks/project.js');
 function source() {
   return project.splitSource()
     .pipe(gulpif('**/*.{png,gif,jpg,svg}', images.minify()))
-    .pipe(gulpif('**/*.js', javascript.minify()))
     .pipe(gulpif('**/*.html', html.minify()))
     .pipe(project.rejoin());
 }

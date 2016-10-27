@@ -7,3 +7,11 @@
 'use strict';
 
 const uglify = require('gulp-uglify');
+
+function minify() {
+  return uglify();
+}
+
+module.exports = {
+  minify: minify
+};
