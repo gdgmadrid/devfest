@@ -1,14 +1,22 @@
 {
+  "database": {
+    "rules": "database.rules.json"
+  },
   "hosting": {
     "public": "build/bundled",
-    "ignore": [
-      "bower.json"
-    ],
+    "cleanUrls": true,
     "rewrites": [
       {
-        "source": "**/!{*.*}",
+        "source": "**",
         "destination": "/index.html"
       }
+    ],
+    "ignore": [
+      "/test/**",
+      "bower.json",
+      "database.rules.json",
+      "firebase.json",
+      "README.md"
     ]
   }
 }
