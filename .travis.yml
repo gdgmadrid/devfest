@@ -16,7 +16,7 @@ install:
 script:
   - npm test
 before_deploy:
-  - polymer build
+  - npm run build
 deploy:
   - provider: firebase
     edge: true
