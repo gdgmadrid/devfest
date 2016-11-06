@@ -1,9 +1,9 @@
 {
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "gdgmadrid",
+    "domain": "gdgmadrid.firebaseapp.com",
+    "database": "https://gdgmadrid.firebaseio.com",
+    "api": "AIzaSyCogko3BsyEszKqIHao3DLQ4oNDw_O-uyc",
     "userSessionsPath": "/userSessions"
   },
   "pages": {
@@ -14,19 +14,12 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Madrid 2016",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,
         "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
       }
     },
     "speakers": {
@@ -64,37 +57,21 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
       "route": "team",
       "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
+  "url": "https://gdgmadrid.com/",
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "",
+    "name": ""
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "disqusShortName": "hoverboard-gdg-x",
+  "partnershipProposition": "https://docs.google.com/presentation/d/1h0TXuJp02ZC5c7Mdmzc8P9QAnAslLJ5B51wZ6cjeg1M/pub?start=false&loop=false&delayms=3000&slide=id.p",
+  "disqusShortName": "devfest-gdgmadrid",
   "languages": [
     {
-      "name": "English",
-      "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
+      "name": "Español",
+      "key": "es"
     }
   ],
   "footerBlocks": [
@@ -113,21 +90,6 @@
           "text": "google-developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
         }
       ]
     },
@@ -136,12 +98,7 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://docs.google.com/presentation/d/1h0TXuJp02ZC5c7Mdmzc8P9QAnAslLJ5B51wZ6cjeg1M/pub?start=false&loop=false&delayms=3000&slide=id.p",
           "newTab": true
         }
       ]
@@ -150,8 +107,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "info@gdgmadrid.com",
+        "url": "mailto:info@gdgmadrid.com"
       }
     ]
   },
@@ -159,29 +116,12 @@
     "url": "http://2event.com/events/630032",
     "elements": [
       {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
         "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
+        "price": 10,
+        "currency": "€",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
         "soldOut": false
       }
     ]
@@ -190,77 +130,64 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "attendees"
+      "counter": 100,
+      "caption": "asistentes"
     },
     {
       "counter": 2,
-      "caption": "days"
+      "caption": "dias"
     },
     {
-      "counter": 30,
-      "caption": "sessions"
-    },
-    {
-      "counter": 3,
+      "counter": 2,
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "devfestmadrid",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGMadrid",
+      "url": "https://twitter.com/gdgmadrid"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
-    },
-    {
-      "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "112952310970563894279",
+      "url": "https://plus.google.com/112952310970563894279"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/location_1.png",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/location_2.jpg",
+        "/images/backgrounds/location_4.png"
       ]
     }
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 40.4753203,
+      "longitude": -3.6720855,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 40.4753203,
+      "longitude": -3.6720855
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_1.png",
       "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_3.png",
+      "/images/backgrounds/location_4.png",
+      "/images/backgrounds/location_5.png"
     ]
   },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "",
   "callToAction": {
-    "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "",
+    "videoId": ""
   }
 }
