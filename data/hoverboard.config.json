@@ -29,6 +29,20 @@
         "tabBarColor": "#fff"
       }
     },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
     "team": {
       "headerSettings": {
         "backgroundColor": "#009688",
@@ -54,6 +68,14 @@
       "permalink": "/blog/"
     },
     {
+      "route": "schedule",
+      "permalink": "/schedule/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -64,12 +86,8 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "disqusShortName": "devfest-gdgmadrid",
+  "disqusShortName": "hoverboard-gdg-x",
   "languages": [
-    {
-      "name": "Español",
-      "key": "es"
-    },
     {
       "name": "English",
       "key": "en"
@@ -172,7 +190,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 100,
+      "counter": 600,
       "caption": "attendees"
     },
     {
@@ -180,27 +198,38 @@
       "caption": "days"
     },
     {
-      "counter": 20,
+      "counter": 30,
       "caption": "sessions"
     },
     {
-      "counter": 2,
+      "counter": 3,
       "caption": "tracks"
     }
   ],
-  "hashtag": "devfestmadrid",
+  "hashtag": "dfua",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGMadrid",
-      "url": "https://twitter.com/gdgmadrid"
+      "nickname": "GDGLviv",
+      "url": "https://twitter.com/gdglviv"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
       "url": "https://plus.google.com/102444623953913144164"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGLviv",
+      "url": "https://www.facebook.com/GDGLviv"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "google-developers-group-lviv",
+      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
     }
   ],
+  "tweetsSource": "/data/tweets.json",
   "gallery": {
     "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
     "photos": {
@@ -228,5 +257,10 @@
       "/images/backgrounds/location_2.jpg",
       "/images/backgrounds/location_3.jpg"
     ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
   }
 }
