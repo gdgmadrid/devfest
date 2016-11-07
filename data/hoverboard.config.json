@@ -2,7 +2,7 @@
   "firebase": {
     "name": "gdgmadrid",
     "domain": "gdgmadrid.firebaseapp.com",
-    "database": "https://gdgmadrid.firebaseio.com",
+    "database": "https://gdgmadrid-site.firebaseio.com",
     "api": "AIzaSyCogko3BsyEszKqIHao3DLQ4oNDw_O-uyc",
     "userSessionsPath": "/userSessions"
   },
