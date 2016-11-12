@@ -2,79 +2,71 @@
   "1": {
     "id": 1,
     "featured": true,
-    "name": "Mete Atamel",
-    "title": "Developer Advocate",
-    "company": "Google",
-    "companyLogo": "/images/logos/gdg-lviv.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
-    "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-    "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+    "name": "Gema Arnaiz Delgado",
+    "title": "Ruby on rails Developer",
+    "company": "BEEVA",
+    "companyLogo": "/images/logos/beeva-horizontal.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/gema_arnaiz_2.jpg",
+    "shortBio": "Enganchada a las nuevas tecnologías, actualmente trabaja en BEEVA como desarolladora en el área de Iaas...",
+    "bio": "Enganchada a las nuevas tecnologías, actualmente trabaja en BEEVA como desarolladora en el área de Iaas & Open Systems, compaginándolo con su faceta freelance de desarolladora iOS. Forma parte de las comunidades GDG Spain como organizer en Burgos y Tech&ladies.",
     "tags": [
-      "Cloud",
-      "Compute Engine",
-      "gRPC"
+      "Firebase",
+      "IBeacon",
+      "Objective-C",
+      "iOS"
     ],
     "badges": [
-
+      {
+        "name": "BEEVA",
+        "description": "Ruby on rails Developer"
+      }
     ],
     "socials": [
       {
         "icon": "linkedin",
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/meteatamel/"
+        "link": "https://www.linkedin.com/in/gema-arnaiz-delgado-01b66753/"
       },
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      },
-      {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/meteatamel/"
+        "link": "https://twitter.com/Garnaizd92"
       }
     ]
   },
   "2": {
     "id": 2,
     "featured": true,
-    "name": "Yonatan Levin",
-    "title": "Android Evangelist & Developer",
+    "name": "Gema Parreño",
+    "title": "R&D Developer",
     "company": "Gett",
-    "companyLogo": "/images/logos/gdg-lviv.svg",
-    "country": "Tel Aviv, Israel",
-    "photoUrl": "/images/people/yonatan_levin.jpg",
-    "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-    "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+    "companyLogo": "/images/logos/open_sistemas.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/soy_gema.jpg",
+    "shortBio": "Gema Parreño is a several times awarded product designer that has been focused into Artificial Intelligence...",
+    "bio": "Gema Parreño is a several times awarded product designer that has been focused into Artificial Intelligence and software architecture for 2 years highlighting experiences with Natual Languaje Understanding. She is now developing recursive neural networks and clustering classifications in Tensor Flow with Python since Google opened TensorFlow focusing now on Sentiment Analysis and computer vision . The talk will be focused on reverse ingeeniering of a limbic system and a neural net demo using computer vision.",
     "tags": [
-      "Android",
-      "Doze",
-      "Mobile UX",
-      "Entrepreneurship"
+      "Machine Learning",
+      "Neural Nets",
+      "TensorFlow"
     ],
     "badges": [
       {
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+        "name": "Open Sistemas",
+        "description": "R&D Developer"
       }
     ],
     "socials": [
       {
-        "icon": "facebook",
-        "name": "Facebook",
-        "link": "https://www.facebook.com/levin.yonatan"
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://es.linkedin.com/in/gemaparreno/en"
       },
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/parahall"
-      },
-      {
-        "icon": "gplus",
-        "name": "Google+",
-        "link": "https://plus.google.com/+YonatanLevin"
+        "link": "https://twitter.com/SoyGema"
       }
     ]
   },
