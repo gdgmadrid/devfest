@@ -1,189 +1,142 @@
 [{
-    "date": "2016-12-02",
-    "dateReadable": "2 Diciembre",
+  "date": "2016-12-02",
+  "dateReadable": "2 Diciembre",
+  "tracks": [{
+    "title": "Auditorio"
+  }, {
+    "title": "Workshops room"
+  }],
+  "timeslots": [{
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "sessions": [
+      [201]
+    ]
+  }, {
+    "startTime": "17:00",
+    "endTime": "17:30",
+    "sessions": [
+      [202]
+    ]
+  }, {
+    "startTime": "17:30",
+    "endTime": "18:30",
+    "sessions": [
+      [999],
+      [998]
+    ]
+  }, {
+    "startTime": "18:30",
+    "endTime": "19:30",
+    "sessions": [
+      [999],
+      [998]
+    ]
+  }, {
+    "startTime": "19:30",
+    "endTime": "20:30",
+    "sessions": [
+      [999],
+      [998]
+    ]
+  }, {
+    "startTime": "20:30",
+    "endTime": "22:00",
+    "sessions": [
+      [203]
+    ]
+  }
+  ]
+}, {
+    "date": "2016-12-03",
+    "dateReadable": "3 Diciembre",
     "tracks": [{
-        "title": "Expo hall"
+      "title": "Auditorio"
     }, {
-        "title": "Conference hall"
-    }, {
-        "title": "Workshops hall"
+      "title": "Workshops room"
     }],
     "timeslots": [{
         "startTime": "09:00",
-        "endTime": "10:00",
+        "endTime": "09:30",
         "sessions": [
-            [132]
+          [999],
+          [998]
         ]
     }, {
-        "startTime": "10:00",
-        "endTime": "10:15",
+        "startTime": "09:30",
+        "endTime": "10:30",
         "sessions": [
-            [136]
+            [999],
+            [998]
         ]
     }, {
-        "startTime": "10:15",
+        "startTime": "10:30",
         "endTime": "11:00",
         "sessions": [
-            [139]
+            [204]
         ]
     }, {
         "startTime": "11:00",
-        "endTime": "11:40",
+        "endTime": "12:00",
         "sessions": [
-            [103],
-            [120],
-            [109]
+          [999],
+          [998]
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "12:00",
+        "endTime": "13:00",
         "sessions": [
-            [129],
-            [116],
-            [109]
+          [999],
+          [998]
         ]
     }, {
-        "startTime": "12:30",
+        "startTime": "13:00",
         "endTime": "14:00",
         "sessions": [
-            [133]
+          [999],
+          [998]
         ]
     }, {
         "startTime": "14:00",
-        "endTime": "14:40",
-        "sessions": [
-            [101],
-            [118],
-            [107]
-        ]
-    }, {
-        "startTime": "14:50",
         "endTime": "15:30",
         "sessions": [
-            [140],
-            [126],
-            [107]
+            [205]
         ]
     }, {
         "startTime": "15:30",
-        "endTime": "16:00",
+        "endTime": "16:30",
         "sessions": [
-            [134]
+          [999],
+          [998]
         ]
     }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
-        "sessions": [
-            [105],
-            [127],
-            [119]
-        ]
-    }, {
-        "startTime": "16:50",
+        "startTime": "16:30",
         "endTime": "17:30",
         "sessions": [
-            [112],
-            [111],
-            [119]
+          [999],
+          [998]
         ]
     }, {
-        "startTime": "17:40",
-        "endTime": "18:20",
+        "startTime": "17:30",
+        "endTime": "18:00",
         "sessions": [
-            [106],
-            [125],
-            [119]
+            [206]
         ]
     }, {
-        "startTime": "18:30",
-        "endTime": "22:30",
+        "startTime": "18:00",
+        "endTime": "19:00",
         "sessions": [
-            [137]
+          [999],
+          [998]
         ]
-    }]
-}, {
-    "date": "2016-09-10",
-    "dateReadable": "September 10",
-    "tracks": [{
-        "title": "Expo hall"
     }, {
-        "title": "Conference hall"
-    }, {
-        "title": "Workshops hall"
-    }],
-    "timeslots": [{
-        "startTime": "09:30",
-        "endTime": "10:10",
+        "startTime": "19:00",
+        "endTime": "20:00",
         "sessions": [
-            [135]
+          [999],
+          [998]
         ]
-    }, {
-        "startTime": "10:10",
-        "endTime": "10:50",
-        "sessions": [
-            [114],
-            [117],
-            [121]
-        ]
-    }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
-        "sessions": [
-            [122],
-            [113],
-            [121]
-        ]
-    }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
-        "sessions": [
-            [104],
-            [124],
-            [121]
-        ]
-    }, {
-        "startTime": "12:30",
-        "endTime": "14:00",
-        "sessions": [
-            [133]
-        ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
-        "sessions": [
-            [108],
-            [128],
-            [102]
-        ]
-    }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
-        "sessions": [
-            [110],
-            [123],
-            [102]
-        ]
-    }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "sessions": [
-            [134]
-        ]
-    }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
-        "sessions": [
-            [131],
-            [140],
-            [130]
-        ]
-    }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
-        "sessions": [
-            [115],
-            [140],
-            [130]
-        ]
-    }]
-}]
+    }
+    ]
+}
+]
