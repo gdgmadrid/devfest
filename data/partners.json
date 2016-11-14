@@ -34,7 +34,11 @@
   {
     "title": "silver-partner",
     "logos": [
-
+      {
+        "name": "SNGULAR",
+        "url": "http://sngular.team/",
+        "logoUrl": "../images/logos/sngular.png"
+      }
     ]
   },
   {

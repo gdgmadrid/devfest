@@ -9,6 +9,12 @@
     "title": "TBD",
     "description": "TBD"
   },
+  "207": {
+    "id": 207,
+    "title": "Closing devfest",
+    "description": "Coffeeeeeee!",
+    "image": "/images/backgrounds/opening.jpg"
+  },
   "206": {
     "id": 206,
     "title": "Coffee break",
@@ -44,5 +50,57 @@
     "title": "Registro",
     "description": "Registro",
     "image": "/images/backgrounds/registration.jpg"
+  },
+  "104": {
+    "id": 104,
+    "title": "CodeLab TensorFlow Wide+Deep",
+    "description": "This CodeLab approaches Machine Learning through the Wide+Deep neural net architecture, with a running example. The different steps in modelling its architecture and hyperparameters will be exposed, and assistants will build a network to predict results on a dataset. For maximum enjoyment, a laptop with TensorFlow already installed is recommended, so that we don't use up time in installing the toolset.",
+    "speakers": [
+      2, 5
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "TensorFlow", "Machine Learning", "Neural Nets"
+    ]
+  },
+  "103": {
+    "id": 103,
+    "title": "Hadoop Security: Kerberos Time",
+    "description": "Introducción básica a la seguridad en Hadoop: autenticación, autorización, cifrado, etc .. . Hablaremos de kerberos y lo utilizaremos ;-)",
+    "speakers": [
+      3
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "Hadoop", "kerberos", "BigData"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "title": "Tensorflow : Architecture and deep dive into wide+deep neural nets design ",
+    "description": "The talk drives into Tensorflow main architecture and focuses into wide+deep learning use case for recommendation engines.",
+    "speakers": [
+      2
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "TensorFlow", "Machine Learning", "Neural Nets"
+    ]
+  },
+  "101": {
+    "id": 101,
+    "title": "Collaborating in ManageIQ",
+    "description": "ManageIQ is an open source project to manage containers, virtual machines, networks, and storage from a single platform. Learn the key features of the product and learn how to improve it contributing for one of the leader projects in the world for cloud, based on ruby on rails and AngularJS.",
+    "speakers": [
+      4
+    ],
+    "language": "Español",
+    "complexity": "Beginner",
+    "tags": [
+      "cloud", "manageiq", "ruby", "rails", "rspec", "pull request", "patternfly", "contribute"
+    ]
   }
 }
