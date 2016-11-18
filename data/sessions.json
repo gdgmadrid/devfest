@@ -11,8 +11,8 @@
   },
   "207": {
     "id": 207,
-    "title": "Closing devfest",
-    "description": "Coffeeeeeee!",
+    "title": "Closing DevFest",
+    "description": "",
     "image": "/images/backgrounds/opening.jpg"
   },
   "206": {
@@ -50,6 +50,97 @@
     "title": "Registro",
     "description": "Registro",
     "image": "/images/backgrounds/registration.jpg"
+  },
+  "111": {
+    "id": 111,
+    "title": "Introducción a Angular 2",
+    "description": "En esta charla se pretende dar una visión general al por qué de Angular 2 y cuáles son sus beneficios y sus principales conceptos estableciendo diferencias con AngularJS",
+    "speakers": [
+      9
+    ],
+    "language": "Español",
+    "complexity": "Initial",
+    "tags": [
+      "Angular"
+    ]
+  },
+  "110": {
+    "id": 110,
+    "title": "Desarrolla tu primera aplicación con iBeacon, Firebase & iOS",
+    "description": "¿Eres desarrollador móvil pero desconoces la tecnología iBeacon o Firebase? Este es tu taller! Aprenderás a desarrollar una aplicación iOS capaz de detectar beacons y actualizar en tiempo real una base de datos con Firebase. ",
+    "speakers": [
+      1
+    ],
+    "language": "Español",
+    "complexity": "Initial",
+    "tags": [
+      "Firebase", "iBeacon"
+    ]
+  },
+  "109": {
+    "id": 109,
+    "title": "De 0 a 100 con Ibeacon en IOS usando firebase",
+    "description": "Veremos que son eso de los iBeacons de Apple y sabremos como poder conjugarlos con una de las tecnologías que más promoción está dando Google en los últimos tiempos, Firebase. ¿Apple y Google en una misma charla para desarrollar con tecnologías de ambos mundos?",
+    "speakers": [
+      1
+    ],
+    "language": "Español",
+    "complexity": "Initial",
+    "tags": [
+      "Firebase", "iBeacon"
+    ]
+  },
+  "108": {
+    "id": 108,
+    "title": "Taller de Angular 2: de cero a producción",
+    "description": "En el taller pretendo mostrar como pasar de una historia de usuario a una aplicación en producción partiendo del código que por defecto te ofrece la herramienta angular-cli. Para ello se va implementar cada uno de los conceptos de Angular 2 como: componentes, servicios, pipes, inyección de dependencias, routing, http, ... y con especial atención en la implementación de test unitarios y de aceptación. Lo ideal sería que este taller fuera después de una charla de introducción a todos estos conceptos en Angular 2, mía o de cualquier otro compañero, para poder ponerlos en acción, por eso la pongo como intermedia.",
+    "speakers": [
+      9
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "Angular", "testing"
+    ]
+  },
+  "107": {
+    "id": 107,
+    "title": "Anatomía de un generador de Web Components Polymer",
+    "description": "En la charla se hablará de las distintas fases de construcción de un generador de componentes. Empezando por una aproximación teórica a los Web Components, descripción rápida de la idea detrás del estándar y de las cuatro especificaciones en las que se asienta, así como de las razones por las que es necesaria una estandarización en la estructura y el proceso de generación de componentes a lo largo de uno o varios proyectos. Se hablará sobre la estructura del componente, tanto a nivel lógico, como a nivel de esquema de ficheros y carpetas. Posteriormente veremos las tareas de construcción del componente con gulp, para pre-procesar el código Sass, combinar las diferentes partes entre sí en cada construcción, etc. Diferenciaremos tanto las dependencias necesarias para el funcionamiento de la arquitectura del constructor de componentes, como las dependencias propias del componente en sí. Proseguiremos con la mecánica, concreta en el caso de los componentes, para observar los cambios en sus ficheros fuente y levantar un entorno de desarrollo local que construya continuamente nuestro componente para permitirnos disponer siempre de la última versión actualizada y recargada en nuestro navegador. Finalmente, terminaremos la charla indicando como agregar este constructor de componente al polymer cli, mediante la generación de una plantilla, usando yeoman y su enlazado, obteniendo de esta forma un generador de Web Components con polymer interactivo.",
+    "speakers": [
+      8
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "Polymer", "Web"
+    ]
+  },
+  "106": {
+    "id": 106,
+    "title": "Añade tu generador de componentes al Polymer CLI",
+    "description": "En Sngular estamos en proceso de desarrollo de nuestro propio CLI con el objetivo de que nuestras aplicaciones y componentes tengan el mismo scafolding y lo generemos desde la propia terminal. En este workshop queremos enseñaros como hicimos nuestro generador de componentes para que veáis que de forma sencilla podemos acceder a un generador de componentes customizado desde el comando polymer init. Para esto necesitareis traer instalado en vuestros equipos: - npm(también podreis porbar con yarn) - Polymer CLI",
+    "speakers": [
+      7
+    ],
+    "language": "Español",
+    "complexity": "Initial",
+    "tags": [
+      "Polymer", "Web"
+    ]
+  },
+  "105": {
+    "id": 105,
+    "title": "Breve introducción a Serverless y Cloud Functions",
+    "description": "Haremos una revisión de la historia y los orígenes de la filosofía Serverless, así como de los conceptos claves, patrones de diseño, diferencias con un backend tradicional, ventajas e inconvenientes, estado del arte y ejemplos.",
+    "speakers": [
+      6
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "Cloud", "Serverless", "AWS", "Google", "Azure", "Containers"
+    ]
   },
   "104": {
     "id": 104,
@@ -100,7 +191,7 @@
     "language": "Español",
     "complexity": "Beginner",
     "tags": [
-      "cloud", "manageiq", "ruby", "rails", "rspec", "pull request", "patternfly", "contribute"
+      "Cloud", "manageiq", "ruby", "rails", "rspec", "pull request", "patternfly", "contribute"
     ]
   }
 }

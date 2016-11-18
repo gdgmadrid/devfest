@@ -40,7 +40,7 @@
     "featured": true,
     "name": "Gema Parreño",
     "title": "R&D Developer",
-    "company": "Gett",
+    "company": "Open Sistemas",
     "companyLogo": "/images/logos/open_sistemas.png",
     "country": "Madrid, Spain",
     "photoUrl": "/images/people/soy_gema.jpg",
@@ -117,7 +117,7 @@
     "badges": [
       {
         "name": "RED HAT",
-        "description": "Ruby on rails Developer"
+        "description": "Partner Integration Manager"
       }
     ],
     "socials": [
@@ -140,7 +140,7 @@
   },
   "5": {
     "id": 5,
-    "featured": true,
+    "featured": false,
     "name": "Santiago Saavedra",
     "title": "CEO",
     "company": "GPUL",
@@ -174,6 +174,143 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/ssice"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "featured": true,
+    "name": "César Silgo",
+    "title": "Head of Technology",
+    "company": "BEEVA",
+    "companyLogo": "/images/logos/beeva-horizontal.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/cesar.jpg",
+    "shortBio": "Passionate developer with an interest in innovation and Open Source. Geek, addicted to strategy games and sci-fi...",
+    "bio": "Passionate developer with an interest in innovation and Open Source. Geek, addicted to strategy games and sci-fi. César participates in different aspects of the process of creating and delivering software, although his specialties are AWS, REST APIs and the Hadoop ecosystem. César is Cloud Architect and Head of Technology at BEEVA, a company formed by enthusiastic people involved in challenging projects.",
+    "tags": [
+      "Cloud", "Serverless", "AWS", "Google", "Azure", "Containers"
+    ],
+    "badges": [
+      {
+        "name": "BEEVA",
+        "description": "Head of technology"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/csilgoortiz"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "featured": false,
+    "name": "Borja Godoy",
+    "title": "Profesional Frontend Development",
+    "company": "Sngular",
+    "companyLogo": "/images/logos/sngular.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/borja.jpg",
+    "shortBio": "Borja es actualmente Frontend developer en Sngular y GDG organizer.  En proceso de polymerización y aprendiendo a hacer el desarrollo web más fácil...",
+    "bio": "Borja es actualmente Frontend developer en Sngular y GDG organizer.  En proceso de polymerización y aprendiendo a hacer el desarrollo web más fácil gracias a los web components y herramientas de generación de tooling como Yeoman. ",
+    "tags": [
+      "web", "Polymer", "Yeoman"
+    ],
+    "badges": [
+      {
+        "name": "Sngular",
+        "description": "Profesional Frontend Development"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://es.linkedin.com/in/borja-godoy-a4958371"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/Borjagodoy"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/gody11"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "featured": false,
+    "name": "Joaquín López",
+    "title": "Head of Front-end Development Department",
+    "company": "Sngular",
+    "companyLogo": "/images/logos/sngular.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/joaquin.JPG",
+    "shortBio": "Joaquín is a Front-end Lead Architect who is detail oriented, a team player, and possess great organizational and customer service skills...",
+    "bio": "Joaquín is a Front-end Lead Architect who is detail oriented, a team player, and possess great organizational and customer service skills. He takes pride in his job. He is a problem solver, willing to learn, and a lover of technology. Joaquín started programming in Basic at the age of 8 (1989) with his Spectrum 128K. Since then, He has been obsessed with everything technological and digital and as a result he has developed a great passion for programming even had his own software development company for a while. Actually Joaquín is the Head of Front-end Development Department at Sngular managing international multicultural teams throughout USA, Spain and Mexico guiding his teammates to accomplish Sngular’s customers goals.",
+    "tags": [
+      "web", "js", "html", "css", "sass", "gulp", "yeoman", "polymer"
+    ],
+    "badges": [
+      {
+        "name": "Sngular",
+        "description": "Head of Front-end Development Department"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://es.linkedin.com/in/joaquinmlopez"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/drwaky"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "featured": false,
+    "name": "Rubén Aguilera",
+    "title": "Senior Developer",
+    "company": "Autentia",
+    "companyLogo": "/images/logos/autentia.jpg",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/ruben.jpg",
+    "shortBio": "Ha protagonizado charlas en conferencias como T3chFest, PolymerDay y diversos Meetups (MadridJS, AngularJS Madrid, etc.). Algunas de las últimas...",
+    "bio": "Ha protagonizado charlas en conferencias como T3chFest, PolymerDay y diversos Meetups (MadridJS, AngularJS Madrid, etc.). Algunas de las últimas que ha impartido son Empezando con Angular 2, ¡Haya paz, hermanos! (Polymer y Angular 2) o ¡Que viene Angular 2! Rubén Aguilera es un profesional con más de 10 años de experiencia, que desde 2009 desempeña su trabajo en Autentia como consultor tecnológico. Ha tenido la oportunidad de trabajar y formarse en muy distintas metodologías, herramientas y tecnologías tanto de servidor como de cliente.Comparte su conocimiento escribiendo tutoriales en la web www.adictosaltrabajo.com",
+    "tags": [
+      "angular"
+    ],
+    "badges": [
+      {
+        "name": "Autentia",
+        "description": "Senior Developer"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://es.linkedin.com/in/rubenaguilera"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/raguilera82"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/raguilera82"
       }
     ]
   }

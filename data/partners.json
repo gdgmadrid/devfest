@@ -38,6 +38,11 @@
         "name": "SNGULAR",
         "url": "http://sngular.team/",
         "logoUrl": "../images/logos/sngular.png"
+      },
+      {
+        "name": "OREILLY",
+        "url": "http://www.oreilly.com/",
+        "logoUrl": "../images/logos/oreilly.gif"
       }
     ]
   },
