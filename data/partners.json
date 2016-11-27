@@ -40,12 +40,20 @@
         "logoUrl": "../images/logos/sngular.png"
       },
       {
+        "name": "Datatons",
+        "url": "http://www.datatons.com/es/",
+        "logoUrl": "../images/logos/Datatons-Vertical-Color.png"
+      },
+      {
         "name": "OREILLY",
         "url": "http://www.oreilly.com/",
         "logoUrl": "../images/logos/oreilly.gif"
       }
     ]
   },
+
+
+
   {
     "title": "colaborator-partner",
     "logos": [

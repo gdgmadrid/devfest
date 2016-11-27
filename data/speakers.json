@@ -313,5 +313,155 @@
         "link": "https://twitter.com/raguilera82"
       }
     ]
+  },
+  "10": {
+    "id": 10,
+    "featured": false,
+    "name": "Carlos Izquierdo",
+    "title": "Big Data Architect",
+    "company": "Datatons",
+    "companyLogo": "/images/logos/Datatons-Vertical-Color.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/carlos.jpg",
+    "shortBio": "Carlos Izquierdo is a Big Data architect focused in providing robust, scalable solutions at a reasonable cost. He likes tinkering with technology and discovering...",
+    "bio": "Carlos Izquierdo is a Big Data architect focused in providing robust, scalable solutions at a reasonable cost. He likes tinkering with technology and discovering new tools, so he is quite up to date in IT needs and trends. He has worked in businesses big and small, as well as in academic environments. He always prefers open source and free software solutions, which he has been using for several years. His experience managing Big Data platforms allows him to provide insightful and hands-on solutions related to Hadoop and its ecosystem. Two years ago he founded a Data-oriented startup called Datatons.",
+    "tags": [
+      "Hadoop", "BigData", "migrations"
+    ],
+    "badges": [
+      {
+        "name": "Datatons",
+        "description": "Big Data Architect"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/gheesh"
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "featured": false,
+    "name": "Eduardo Sada",
+    "title": "Especialista Javascript",
+    "company": "Kairos DS",
+    "companyLogo": "/images/logos/kairos.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/eduardo.jpg",
+    "shortBio": "Eduardo es especialista Javascript en Kairós Digital Solutions. Con más de 10 años de experiencia en desarrollo front-end actualmente trabaja en el departamento...",
+    "bio": "Eduardo es especialista Javascript en Kairós Digital Solutions. Con más de 10 años de experiencia en desarrollo front-end actualmente trabaja en el departamento de Arquitectura del proyecto Cells de BBVA.",
+    "tags": [
+      "Polymer", "HTML", "CSS", "Web Components", "DevTools"
+    ],
+    "badges": [
+      {
+        "name": "Kairos DS",
+        "description": "Especialista Javascript"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/eduardosada"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/aeroalquimia"
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "featured": false,
+    "name": "David Capilla",
+    "title": "Technical",
+    "company": "BEEVA",
+    "companyLogo": "/images/logos/beeva-horizontal.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/david.JPG",
+    "shortBio": "Infraestructure Base technician, admin systems and resolving issues. Innovation skills.",
+    "bio": "Infraestructure Base technician, admin systems and resolving issues. Innovation skills.",
+    "tags": [
+      "Hacking etico", "machine learning", "sysadmin", "docker"
+    ],
+    "badges": [
+      {
+        "name": "BEEVA",
+        "description": "Technical"
+      }
+    ],
+    "socials": [
+    ]
+  },
+  "13": {
+    "id": 13,
+    "featured": false,
+    "name": "Santiago Rodríguez",
+    "title": "Data Scientist",
+    "company": "Sngular",
+    "companyLogo": "/images/logos/sngular.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/santiago.webp.png",
+    "shortBio": "Santiago es Reference Data Scientist en s|ngular. Trabaja en proyectos de análisis de datos, aprendizaje automático y Big Data. Es Licenciado en...",
+    "bio": "Santiago es Reference Data Scientist en s|ngular. Trabaja en proyectos de análisis de datos, aprendizaje automático y Big Data. Es Licenciado en Ciencias Físicas, especializado en Dispositivos Físicos y Control, por la UCM y se formó en Data Science y BigData en la UAM y MOOCs. Además ha trabajado en el desarrollo de aplicaciones móviles durante varios años. Es un entusiasta del análisis de datos, Data Science, Machine Learning, Big Data y temas relacionados.",
+    "tags": [
+      "TensorFlow", "MachineLearning"
+    ],
+    "badges": [
+      {
+        "name": "Sngular",
+        "description": "Data Scientist"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://es.linkedin.com/in/santiagorodsor"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/santiagorodsor"
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "featured": false,
+    "name": "Esteban Dorado",
+    "title": "Programador Software",
+    "company": "BEEVA",
+    "companyLogo": "/images/logos/beeva-horizontal.png",
+    "country": "Madrid, Spain",
+    "photoUrl": "/images/people/esteban2.jpg",
+    "shortBio": "Ingeniero informático y un early adopter de las nuevas tecnologias, actualmente trabaja en BEEVA como desarollador en el área de Iaas & Open Systems...",
+    "bio": "Ingeniero informático y un early adopter de las nuevas tecnologias, actualmente trabaja en BEEVA como desarollador en el área de Iaas & Open Systems. Miembro de GDG Spain participando activamente en varios GDGs (Google Developers Groups) y organizador del GDG Granada.",
+    "tags": [
+      "Cloud", "Google", "API", "Cloud Endpoints"
+    ],
+    "badges": [
+      {
+        "name": "BEEVA",
+        "description": "Programador Software"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/mresti"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/mr_esti"
+      }
+    ]
   }
 }

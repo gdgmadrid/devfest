@@ -51,6 +51,71 @@
     "description": "Registro",
     "image": "/images/backgrounds/registration.jpg"
   },
+  "116": {
+    "id": 116,
+    "title": "APIs in Google Cloud Platform",
+    "description": "Develop, deploy and manage APIs on any Google Cloud Platform backend.",
+    "speakers": [
+      14
+    ],
+    "language": "Español",
+    "complexity": "Initial",
+    "tags": [
+      "Cloud"
+    ]
+  },
+  "115": {
+    "id": 115,
+    "title": "TensorFlow for \"Scikit-learners\"",
+    "description": "Tensorflow es la apuesta fuerte de Google hacia la comunidad de Data Science y Machine Learning. Fue presentado hace un año como la segunda generación de sistemas orientados al aprendizaje escalable y distribuido, surgido del proyecto Google Brain, que está centrado en la exploración de redes neuronales de gran tamaño. Realizaremos un acercamiento a su aplicación a través de sus APIs en proyectos de Machine Learning como lo haríamos con librerías tan conocidas como ScikitLearn o Theano. También hablaremos del framework, de sus bondades y aplicaciones y de como se incorpora en el ecosistema de aplicaciones de machine learning actual. ",
+    "speakers": [
+      13
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "TensorFlow", "MachineLearning"
+    ]
+  },
+  "114": {
+    "id": 114,
+    "title": "Sysadmin",
+    "description": "DOCKER; LINUX/UNIX; VAGRANT",
+    "speakers": [
+      12
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "docker", "sysadmin"
+    ]
+  },
+  "113": {
+    "id": 113,
+    "title": "Máxima Performance",
+    "description": "Nos meteremos en la sala de máquinas de nuestro barco, los navegadores, aprendiendo cómo funcionan y cuáles son las mejores técnicas para conseguir la máxima performance en nuestra web. Pasaremos de 0 a 60 FPS(*) entendiendo los procesos básicos de pintado y descubriremos en el final cuál es el enemigo número uno de la buena performance. Algunos temas que se tocarán: - ¿Qué es la buena performance? ¿Se puede medir una \"sensación\"? - ¿Cómo puedo mejorar la performance en móviles? - ¿Cómo de mucho impactan las micro-optimizaciones? - ¿Qué son los web workers? ¿Realmente ayudan? Cuando el #mobilefirst ya no es una opción y se ha convertido en ley, cuando la #performance importa.",
+    "speakers": [
+      11
+    ],
+    "language": "Español",
+    "complexity": "Advanced",
+    "tags": [
+      "Polymer", "Web Components"
+    ]
+  },
+  "112": {
+    "id": 112,
+    "title": "Big Migrations: Moving elephant herds",
+    "description": "Deploying new services in cloud is easy, fast and does not require a huge initial investment (not to mention that it is COOL and everyboy does it nowadays). With the availability of tools for quick deployments and DevOps techniques, it is easier than ever to deploy your very own Hadoop cluster and begin harnessing the power of Big Data. However, what happens when your proof of concept (that has since its debut grown to a multiple terabyte monster and is ingesting several data streams in real time) needs to go into production? Does your cloud vendor provide you with enough performance? Do you need to add extra capacity to maintain the required service level? Can you do so while keeping costs below a certain threshold? You may reach a point where you want to switch cloud vendors to save some money. Have you thought about how much the transition itself will cost you? Traditional approaches to data migration may take several days or weeks given the volumes that Big Data handles. If you take into account the time that your business or service will be unavailable, coupled with the cost of the technical team that is needed to plan and execute this migration, your expected savings may decrease significantly or even disappear. What if you need to consolidate your data in one datacenter to follow corporate policy? What if you need to add data to your cluster that can't be legally stored in public cloud? You don't want to rebuild your solution from scratch and have to go through the same data load process that you already had when moving from traditional data warehousing solutions to a Hadoop cluster. In this workshop we will give you tips and best practices on how to move big volumes of data efficiently and with minimal downtime. There are different techniques available, what are their advantages and disadvantages? What steps do you need to follow? Deploying Hadoop was easy, maintaining it is a little bit more tricky and migrating this type of platform requires a thorough knowledge of Hadoop and its related ecosystem tools. A lot of factors must be taken into account to ensure a successful data migration: application activity periods, network bandwidth, Hadoop replication, cluster management tools such as Cloudera Manager, DNS, application endpoints and many other small details that we will show you during this tech talk.",
+    "speakers": [
+      10
+    ],
+    "language": "Español",
+    "complexity": "Intermediate",
+    "tags": [
+      "Hadoop", "BigData"
+    ]
+  },
   "111": {
     "id": 111,
     "title": "Introducción a Angular 2",
