@@ -79,15 +79,15 @@
   },
   "114": {
     "id": 114,
-    "title": "Sysadmin",
-    "description": "DOCKER; LINUX/UNIX; VAGRANT",
+    "title": "How to deploy environments with dockers",
+    "description": "Build environments quickly with docker in order to make your own test lab or other microservice. I'll show you to use docker-engine and docker-compose",
     "speakers": [
       12
     ],
     "language": "Español",
     "complexity": "Intermediate",
     "tags": [
-      "docker", "sysadmin"
+      "docker"
     ]
   },
   "113": {

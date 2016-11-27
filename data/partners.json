@@ -43,17 +43,9 @@
         "name": "Datatons",
         "url": "http://www.datatons.com/es/",
         "logoUrl": "../images/logos/Datatons-Vertical-Color.png"
-      },
-      {
-        "name": "OREILLY",
-        "url": "http://www.oreilly.com/",
-        "logoUrl": "../images/logos/oreilly.gif"
       }
     ]
   },
-
-
-
   {
     "title": "colaborator-partner",
     "logos": [
@@ -61,6 +53,16 @@
         "name": "GDG Spain",
         "url": "https://gdg.es/",
         "logoUrl": "../images/logos/gdgspain.png"
+      },
+      {
+        "name": "OREILLY",
+        "url": "http://www.oreilly.com/",
+        "logoUrl": "../images/logos/oreilly.gif"
+      },
+      {
+        "name": "MANAGEIQ",
+        "url": "http://manageiq.org/",
+        "logoUrl": "../images/logos/manageiq.png"
       }
     ]
   }
