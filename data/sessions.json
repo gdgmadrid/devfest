@@ -72,7 +72,7 @@
       13
     ],
     "language": "Español",
-    "complexity": "Intermediate",
+    "complexity": "Initial",
     "tags": [
       "TensorFlow", "MachineLearning"
     ]
@@ -254,7 +254,7 @@
       4
     ],
     "language": "Español",
-    "complexity": "Beginner",
+    "complexity": "Initial",
     "tags": [
       "Cloud", "manageiq", "ruby", "rails", "rspec", "pull request", "patternfly", "contribute"
     ]
